@@ -198,7 +198,7 @@ p {
   width: 100%;
   border-radius: 50%;
   border: 3px solid #fff;
-  animation: hamburger_pulse 1s ease infinite;
+  animation: hamburger_pulse 1.5s ease infinite;
 }
 
 #header .hamburger .bar {
