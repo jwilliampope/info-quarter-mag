@@ -346,6 +346,16 @@ p {
   overflow: hidden;
 }
 
+#contents .content-item a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+#contents .content-item a:hover {
+  color: #000;
+  background: #fff;
+}
+
 #contents .content-item::after {
   content: "";
   position: absolute;
